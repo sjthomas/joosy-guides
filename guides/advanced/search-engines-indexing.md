@@ -5,7 +5,7 @@ title: "Search engines indexing"
 
 {% assign gist_id = 2127685 %}
 
-Javascript frameworks are widely criticized for the potential problems with search engines indexing. While this is not the case for private parts of your site, sometimes you might want use Joosy for the front part either. Fortunately, to solve this problem Google introduced [AJAX Crawling API](https://developers.google.com/webmasters/ajax-crawling/). Nowadays it is supported not only by Google but either by Bing (and therefore Yahoo) and local market players.
+Javascript frameworks are widely criticized for the potential problems with search engines indexing. While this is not the case for private parts of your site, sometimes you might want to use Joosy for the front part also. Fortunately, to solve this problem Google introduced [AJAX Crawling API](https://developers.google.com/webmasters/ajax-crawling/). Nowadays it is supported not only by Google but either by Bing (and therefore Yahoo) and local market players.
 
 It works by replacing the hashbang (#!) in your url.
 
